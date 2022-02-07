@@ -10,4 +10,4 @@ while N > n:
     n *= 2
     pow +=1
 else:
-    print(int(n/2), 'is the max power of 2, which is less than your number. It is 2 in the power of', pow-1)
+    print(int(n/2), 'is the max power of 2, which is less than your number. It is 2 in the power of', (pow-1))
