@@ -1,5 +1,5 @@
 """
-This is a function for defining a month and a season by a number. Only numerical arguments from 1 to 12 ca be used.
+This is a function for defining a month and a season by a number. Only numerical arguments from 1 to 12 can be used.
 """
 def months(month_num):
     seasons = {
